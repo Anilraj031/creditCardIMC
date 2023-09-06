@@ -1,0 +1,51 @@
+﻿body {
+	background-color: #919b5e;
+	margin: 15;
+	padding: 15;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #513d27;
+}
+
+body .wrapper {
+    padding: 0 20px;
+    background: url('bg_shadow.png') repeat-y;
+}
+
+.header 
+{
+    background: #513d27;
+	color: white;
+}
+
+.header h4 {
+	font-size: 13px;
+	color: #bead95;
+	margin: 0;
+	padding: 0;
+}
+
+.normal 
+{
+    background: white;
+	font-weight: bold;
+	color: #bead95;
+	vertical-align: top;
+	padding: 2px 7px 1px 4px;
+}
+
+.normal input[type=text], .normal select {
+	margin-left: 1px;
+	height: 15px;
+	font-weight: normal;
+	color: black;
+	width: 157px;
+	border: 1px solid #bead95;
+	}
+
+.normal select {
+	height:22px;
+	width:120px;	
+	}
+	
